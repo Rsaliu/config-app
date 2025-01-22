@@ -5,4 +5,4 @@ add_executable(config-app main.cpp)
 
 include(CTest)
 enable_testing()
-
+install(TARGETS ${PROJECT_NAME} RUNTIME DESTINATION bin)
