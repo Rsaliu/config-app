@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/config-app.dir/main.cpp.o -o config-app 

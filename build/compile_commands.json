@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/rillo/workspace/personal/config-app/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/config-app.dir/main.cpp.o -c /home/rillo/workspace/personal/config-app/main.cpp",
+  "file": "/home/rillo/workspace/personal/config-app/main.cpp"
+}
+]
